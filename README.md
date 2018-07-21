@@ -24,5 +24,5 @@ python entertainment_center.py
 This project is created with Python 3.x and tested. The project should run typically with Python v2.x as well without errors but not tested at the moment. 
 
 ## References
-Refered to the [GitHub project](https://github.com/SteveWooding/movie-website.git) by Steven Wooding
-Refered some HTML and CSS tutorials for better understanding of the file `fresh_tomatoes.py` provided by the Udacity
+  - Refered to the [GitHub project](https://github.com/SteveWooding/movie-website.git) by Steven Wooding
+  - Refered some HTML and CSS tutorials for better understanding of the file `fresh_tomatoes.py` provided by the Udacity
