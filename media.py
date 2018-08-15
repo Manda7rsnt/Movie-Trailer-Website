@@ -19,12 +19,12 @@ class Movie():
         """Initialises the Movie class instance variables."""
         self.title = movie_title
         self.duration = movie_duration
-        self.description = movie_description
+        self.description = movie_description #A short movie stoyline
         self.genre = movie_genre
-        self.release = movie_release
+        self.release = movie_release #Movie release date
         self.main_actors = movie_main_actors
-        self.poster_image_url = poster_image
-        self.trailer_youtube_url = trailer_youtube
+        self.poster_image_url = poster_image #to be displayed on the webpage
+        self.trailer_youtube_url = trailer_youtube #link to the trailer
 
     def show_trailer(self):
         """ Open the web browser to show the youtube movie trailer """
